@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carlos.
-- 👀 I’m interested in backend development.
-- 🌱 I’m currently learning Nodejs and React. Also a little bit of algorithms and DS. This is an app I created recently: https://safe-retreat-69047.herokuapp.com/
-- 💞️ I’m looking to collaborate on backend projects, most of my experience is on the .net framework.
+- 👀 I’m directing my career towards being a full stack developer.
+- 🌱 I’ve spent the recent months learning Nodejs, React and Javascript. This is an app I created recently: https://video-rental-frontend-app.herokuapp.com/
+- 💞️ Even though most of my professional experience is on .Net, I want to start working on Javascript projects.
 - 📫 How to reach me: carlos.hernandezcoto@outlook.com
 
 <!---
