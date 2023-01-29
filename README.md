@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carlos.
 - 👀 I’m directing my career towards being a full stack developer.
 - 🌱 I’ve spent the recent months learning Nodejs, React and Javascript. This is an app I created recently: https://video-rental-frontend-app.herokuapp.com/
-- 💞️ Even though most of my professional experience is on .Net, I want to start working on Javascript projects.
+- 💞️ Even though most of my professional experience is on .Net and SQL Server, I want to start working on Javascript projects.
 - 📫 How to reach me: carlos.hernandezcoto@outlook.com
 
 <!---
